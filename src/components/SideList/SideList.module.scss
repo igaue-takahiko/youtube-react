@@ -1,0 +1,9 @@
+.sideNav {
+    width: 480px;
+    flex-basis: 48px;
+    padding: 1rem;
+    @media screen and (max-width: 960px){
+        width: 90%;
+        margin: 1rem auto;
+    }
+}
